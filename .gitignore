@@ -9,6 +9,9 @@ __pycache__/
 passwords/
 Passwords/
 
+key/
+Key/
+
 # Distribution / packaging
 .Python
 build/
